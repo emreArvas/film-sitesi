@@ -1,0 +1,28 @@
+.poster-wrapper img{
+    width: 150px;
+}
+.result-card{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 260px;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header{
+    margin-right: 600px;
+}
+.controls button{
+    background-color: #00a0cf;
+    border: none;
+    border-radius: 5%;
+    width: 120px;
+    height: 210px;
+    cursor: pointer;
+    transition: 0.1s ease;
+}
+.btn:hover{
+    background-color: rgba(6, 226, 6, 0.698);
+}

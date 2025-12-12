@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.inner-content{
+    background-color: #032541;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 240px;
+    align-items: center;
+}
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+}
+.brand{
+    text-decoration: none;
+    color: aliceblue;
+}
+.style{
+    text-decoration: none;
+    color: aliceblue;
+}
+.first{
+    margin-right: 20px;
+}
+.seckond{
+    background-color: #00a0cf;
+    padding: 5px;
+    border-radius: 50%;
+    transition: all 0.5s;
+}
+.seckond:hover{
+    background-color: rgb(174, 224, 226);
+}
+

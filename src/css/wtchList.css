@@ -1,0 +1,11 @@
+.movie-grid {
+  margin-top: 40px;
+  margin-left: 100px;
+  display: flex;
+  flex-wrap: wrap;  /* taşarsa alta geçsin */
+  gap: 12px;        /* boşluk */
+}
+.heading{
+    margin-left: 100px;
+    color: #032541;
+}

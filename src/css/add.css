@@ -1,0 +1,23 @@
+.add-content img{
+    width: 1050px;
+    margin-left: 240px;
+}
+
+.titels{
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    color: white;
+    font-size: 20px;
+}
+.input-wrapper{
+    position: absolute;
+    top: 320px;
+    left: 400px;
+}
+.input-wrapper input{
+    width: 800px;
+    height: 35px;
+    border: none;
+    border-radius: 40px;
+}

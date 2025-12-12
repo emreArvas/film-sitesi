@@ -1,0 +1,24 @@
+.movie-card{
+    position: relative;
+}
+.kontrol{
+    position: absolute;
+    top: 220px;
+    left: 30px;
+    opacity: 0;               
+    transition: opacity 0.3s ease;
+}
+.movie-card:hover .kontrol {
+  opacity: 1;
+}
+.ctrl-btn{
+    width: 45px;
+    height: 30px;
+    margin-left: 10px;
+    border: none;
+    background-color: #032541;
+}
+.ctrl-btn i{
+    font-size: 15px;
+    color: aliceblue;
+}
