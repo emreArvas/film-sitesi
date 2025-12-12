@@ -45,7 +45,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone <repo-url>
+    git clone https://github.com/emreArvas/film-sitesi
     cd film
     ```
 
